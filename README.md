@@ -5,7 +5,7 @@ This project is a fork of [Portfolio Template](https://github.com/DeveloperWayIT
 
 ## Preview
 
-![template screenshot](https:/github.com/zaninisimone/zaninisimone.github.io/assets/img/preview.png)
+![template screenshot](assets/img/preview.png)
 
 ## Description
 
